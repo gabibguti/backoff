@@ -1,6 +1,6 @@
 # Exponential Backoff [![GoDoc][godoc image]][godoc] [![Build Status][travis image]][travis] [![Coverage Status][coveralls image]][coveralls]
 
-This is a Go port of the exponential backoff algorithm from [Google's HTTP Client Library for Java][google-http-java-client].
+This is a Testing Go port of the exponential backoff algorithm from [Google's HTTP Client Library for Java][google-http-java-client].
 
 [Exponential backoff][exponential backoff wiki]
 is an algorithm that uses feedback to multiplicatively decrease the rate of some process,
